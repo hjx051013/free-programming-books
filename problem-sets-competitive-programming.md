@@ -11,6 +11,7 @@
 * [A2 Online Judge](https://a2oj.com)
 * [Codeabbey](http://www.codeabbey.com)
 * [Codechef](https://www.codechef.com/contests)
+* [Codecombat](https://codecombat.com)
 * [Codeeval](https://www.codeeval.com)
 * [CodeFights](https://codefights.com)
 * [Codeforces](http://codeforces.com/contests)
@@ -18,8 +19,8 @@
 * [Codewars](http://www.codewars.com)
 * [Codingame](https://www.codingame.com/start)
 * [Facebook Hackercup](https://www.facebook.com/hackercup)
+* [HackerEarth](https://www.hackerearth.com)
 * [Hackerrank](https://www.hackerrank.com)
-* [Hello World Open](https://helloworldopen.com)
 * [Internet Problem Solving Contest](http://ipsc.ksp.sk)
 * [Just another Golf Coding](http://jagc.org)
 * [Kattis](https://open.kattis.com)
@@ -36,12 +37,13 @@
 
 ### Problem Sets
 
+* [500 Data structures and algorithms interview questions and their solutions in C++](https://techiedelight.quora.com/500-Data-structures-and-algorithms-interview-questions-and-their-solutions-in-C%2B%2B)
 * [A2 Online Judge](https://a2oj.com/ps)
 * [Advent Of Code](http://adventofcode.com)
 * [Anarchy Golf](http://golf.shinh.org)
 * [CareerCup](http://www.careercup.com)
 * [CheckIO](http://www.checkio.org)
-* [Codeforces](https://www.codeforces.com/problemset)
+* [Codeforces](http://codeforces.com/problemset)
 * [CodeHunt](https://www.codehunt.com)
 * [Codility](https://codility.com/programmers/)
 * [Coding Bat](http://codingbat.com/java)

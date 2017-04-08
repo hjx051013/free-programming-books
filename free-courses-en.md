@@ -11,6 +11,7 @@
 * [Clojure](#clojure)
 * [Compilers](#compilers)
 * [CUDA](#cuda)
+* [Data Science](#datascience)
 * [Databases](#databases)
 * [Deep Learning](#deep-learning)
 * [Git](#git)
@@ -34,6 +35,7 @@
 * [Scala](#scala)
 * [Software Engineering](#software-engineering)
 * [Swift](#swift)
+* [SystemVerilog](#systemverilog)
 * [Theory](#theory)
 * [Web Development](#web-development)
 
@@ -54,6 +56,7 @@
 ### Android
 
 * [Creative, Serious and Playful Science of Android Apps](https://www.coursera.org/course/androidapps101/)
+* [Material design](https://material.io/guidelines/)
 * [Programming Cloud Services for Android Handheld Systems](https://www.coursera.org/course/mobilecloudprogram)
 * [Programming Mobile Applications for Android Handheld Systems pt. 1](https://www.coursera.org/course/android)
 * [Programming Mobile Applications for Android Handheld Systems pt. 2](https://www.coursera.org/course/androidpart2)
@@ -105,6 +108,11 @@
 * [Intro to Parallel Programming Using CUDA to Harness the Power of GPUs](https://www.udacity.com/course/intro-to-parallel-programming--cs344)
 
 
+### Data Science
+
+* [Introduction to Python for Data Science](https://www.edx.org/course/introduction-python-data-science-microsoft-dat208x-3)
+
+
 ### Databases
 
 * [Database Systems](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-830-database-systems-fall-2010/) (MIT's opencourseware)
@@ -123,6 +131,7 @@
 ### Git
 
 * [Git and Gitlab Live Workshop](https://courses.platzi.com/courses/git-gitlab/)
+* [How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775) (Udacity)
 
 
 ### Go
@@ -200,6 +209,7 @@
 * [Berkeley's Math 10B: Methods of Mathematics: Calculus, Statistics, and Combinatorics](https://www.youtube.com/view_play_list?p=-XXv-cvA_iCZ8sTG0pDuBubsDfOFoY2X)
 * [Bits: The Computer Science of Digital Information](http://www.extension.harvard.edu/open-learning-initiative/bits)
 * [Computer Graphics](http://nptel.ac.in/courses/106106090/)
+* [FindLectures.com](https://www.findlectures.com/?class1=Technology) - Index of conference talks by language / topic
 * [LouvainX Paradigms of Computer Programming – Abstraction and Concurrency](https://www.edx.org/course/paradigms-computer-programming-louvainx-louv1-2x-1#!)
 * [LouvainX Paradigms of Computer Programming – Fundamentals ](https://www.edx.org/course/paradigms-computer-programming-louvainx-louv1-1x-1)
 * [MIT Numerical Methods (2014)](http://www.iitg.ernet.in/kartha/CE601-14/CourseSchedule.htm)
@@ -226,13 +236,21 @@
 
 ### Python
 
+* [An Introduction to Interactive Programming in Python (Part 1)](https://www.coursera.org/learn/interactive-python-1) (Coursera)
+* [An Introduction to Interactive Programming in Python (Part 2)](https://www.coursera.org/learn/interactive-python-2) (Coursera)
 * [Berkeley's Structure and Interpretation of Computer Programs](http://cs61a.org)
+* [Codesdope](https://www.codesdope.com/python-introduction)
 * [Google's Python Course](https://developers.google.com/edu/python/)
 * [Introduction to Computer Science and Programming](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/) (MIT's opencourseware)
 * [Learn Python](https://pythonspot.com)
+* [Learn Python - Free Interactive Python Tutorial](http://www.learnpython.org)
 * [Learn to program in Python](https://www.codecademy.com/learn/python)
+* [Learn to Program: The Fundamentals](https://www.coursera.org/learn/learn-to-program) (Coursera)
+* [Learn to Program Using Python](https://www.edx.org/course/learn-program-using-python-utarlingtonx-cse1309x) (edX)
+* [Microsoft Virtual Academy](https://mva.microsoft.com/en-US/training-courses/introduction-to-programming-with-python-8360)
 * [Programming for Everybody](https://www.coursera.org/learn/python)
 * [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036) (Udacity)
+* [Python Course](http://www.python-course.eu)
 
 
 ### R
@@ -272,6 +290,12 @@
 ### Swift
 
 * [Swiftris - Build an iOS Tetris app from scratch](https://www.bloc.io/swiftris-build-your-first-ios-game-with-swift)
+
+
+### SystemVerilog
+
+* [SystemVerilog - Learn basics of SystemVerilog for Hardware Verification](https://verificationexcellence.teachable.com/p/learn-systemverilog)
+* [SystemVerilog based UVM Methodology - Learn to build UVM based Testbenches in SystemVerilog](https://verificationexcellence.teachable.com/p/learn-ovm-uvm)
 
 
 ### Theory
